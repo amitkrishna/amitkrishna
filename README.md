@@ -1,7 +1,7 @@
 ### Hi there 👋
- 🌱 I’m currently learning my way to by proficient in core CS concepts
- ⚡ Fun fact: Like to Curry in Javascript
- 👯 I’m looking to collaborate on AngularJS 
+ 🌱 I’m currently learning my way to by proficient in core CS concepts<br/>
+ ⚡ Fun fact: Like to Curry in Javascript<br/>
+ 👯 I’m looking to collaborate on AngularJS <br/>
   📫 How to reach me: amitkrishna936@protonmail.com
 <!--
 **amitkrishna/amitkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
