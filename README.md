@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Its me Amit :)
  🌱 I’m currently learning my way to by proficient in core CS concepts<br/>
  ⚡ Fun fact: Like to Curry in Javascript<br/>
  👯 I’m looking to collaborate on AngularJS <br/>
