@@ -2,7 +2,8 @@
  🌱 I’m currently learning my way to by proficient in core CS concepts<br/>
  ⚡ Fun fact: Like to Curry in Javascript<br/>
  👯 I’m looking to collaborate on AngularJS <br/>
-  📫 How to reach me: amitkrishna936@protonmail.com
+  📫 How to reach me: amitkrishna936@protonmail.com<br/>
+  💬 Ask me about -Kubernetes , Docker , Helm
 <!--
 **amitkrishna/amitkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+   Software Developer Intern @SAP 💻                                  
+  🎓 Grad. Student Software Engineering  |   Problem Solver  | Dev-ops   | K8s | Helm
+
+
 -->
