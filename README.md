@@ -6,6 +6,13 @@
  👯 I’m looking to collaborate on AngularJS <br/>
   📫 How to reach me: amitkrishna936@protonmail.com<br/>
   💬 Ask me about -Kubernetes , Docker , Helm
+  
+  ### Links
+
+[LinkedIn](https://linkedin.com/in/imamitkrishna)
+
+![GithubStats](https://github-readme-stats.vercel.app/api?username=amitkrishna&show_icons=true&title_color=ffffff&icon_color=bluef&text_color=daf7dc&bg_color=191919)
+
 <!--
 **amitkrishna/amitkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
