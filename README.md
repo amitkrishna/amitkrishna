@@ -11,7 +11,7 @@
 
 [LinkedIn](https://linkedin.com/in/imamitkrishna)
 
-![GithubStats](https://github-readme-stats.vercel.app/api?username=amitkrishna&show_icons=true&title_color=ffffff&icon_color=bluef&text_color=daf7dc&bg_color=191919)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=amitkrishna&show_icons=true&title_color=blue&icon_color=bluef&text_color=red&bg_color=green)
 
 <!--
 **amitkrishna/amitkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
