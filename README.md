@@ -10,7 +10,7 @@
   ### Links
 
 [LinkedIn](https://linkedin.com/in/imamitkrishna)
-[Center]
+
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=amitkrishna&show_icons=true&title_color=blue&icon_color=bluef&text_color=red&bg_color=green)
 
 
