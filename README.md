@@ -13,6 +13,9 @@
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=amitkrishna&show_icons=true&title_color=blue&icon_color=bluef&text_color=red&bg_color=green)
 
+
+![Programming_Language_Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=hhhrrrttt222111&layout=compact&theme=dark)
+
 <!--
 **amitkrishna/amitkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
