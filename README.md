@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
    Software Developer Intern @SAP 💻                                  
   🎓 Grad. Student Software Engineering  |   Problem Solver  | Dev-ops   | K8s | Helm
+  
+  
+  
+   Grad. Student Software Engineering  |   Problem Solver  | Dev-ops   | K8s | Helm | Jenkins | Kyma | Gardner | Grafana 
 
 
 -->
