@@ -13,9 +13,10 @@ Since graduating in 2019, I've thrived in the fast-paced software industry. I ex
 
 # Professional Experience
 
-## Senior Software Engineer
+### Senior Software Engineer
 **June 2023 – Present**  
-**Entomo GTDIC, Bangalore, KA, IN**
+<img src="entomo_logo.jpg" alt="Entomo Logo" width="50" height="50">
+**entomo, Bangalore, KA, IN**
 
 - Proactively fixed issues in the Java backend, improving overall system stability and reducing backend-related incidents by 20%.
 - Worked on designing new features in collaboration with remote colleagues and in close coordination with various stakeholders, including Architects, Product Experts, and Product Owners. Maintained, improved, and refactored the product and tested large and complex code bases.
@@ -26,7 +27,8 @@ Since graduating in 2019, I've thrived in the fast-paced software industry. I ex
 
 ## Front-end Engineer
 **August 2019 – June 2023**  
-**SAP Labs India, Bangalore, KA**
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP Logo" width="70" height="50">
+**SAP, Bangalore, KA**
 
 - Led critical front-end optimization initiatives at SAP, including search performance improvements, memory leak fixes, and UI component testing, while collaborating with UX teams and senior developers to implement features for major customers.
 - Architected and enhanced core UI functionalities by implementing pagination, addressing web accessibility issues, improving state management with RxJS, and resolving style-sheet leaks in production.
