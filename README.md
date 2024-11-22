@@ -9,21 +9,18 @@ Since graduating in 2019, I've thrived in the fast-paced software industry. I ex
    - ⚡ **Expert** in Angular 10+, HighChart, NgRX, RxJS, and TypeScript/JavaScript.
    - 👯 **Committed** to Agile principles and clean, secure coding for Cloud-Native Architectures.
    - 📫 **Thrives** in fast-paced environments; excels in teamwork and problem-solving.
-   - **Ask me about**: JavaScript, Agile, MicroFrontend, Front-end Optimization, Software Architecture, Data Structures and Algorithms.
-
-  
-  ### Links
+   - **Ask me about**: JavaScript, Agile, MicroFrontend, Front-end Optimization, Software Architecture, Data Structures and Algorithms, Problem Solving.
 
   ## LeetCode
 
    ![LeetCode Stats](https://leetcard.jacoblin.cool/amit_krishna_)
 
-  ## Github
+
+<!--  ## Github
 
    ![GithubStats](https://github-readme-stats.vercel.app/api?username=amitkrishna&show_icons=true&title_color=blue&icon_color=bluef&text_color=red&bg_color=green)
 
-
-<!-- #![Programming_Language_Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkrishna&layout=compact&theme=dark) -->
+ #![Programming_Language_Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkrishna&layout=compact&theme=dark) -->
 
 
 
