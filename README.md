@@ -15,6 +15,9 @@ Since graduating in 2019, I've thrived in the fast-paced software industry. I ex
 
    ![LeetCode Stats](https://leetcard.jacoblin.cool/amit_krishna_)
 
+## My Articles
+- [Angular Security](https://amitkrishnatech.substack.com/p/ngsecbrokenaccesscontrol?r=2052gt&utm_campaign=post&utm_medium=web&triedRedirect=true)
+
 
 <!--  ## Github
 
