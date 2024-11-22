@@ -11,7 +11,28 @@ Since graduating in 2019, I've thrived in the fast-paced software industry. I ex
    - 📫 **Thrives** in fast-paced environments; excels in teamwork and problem-solving.
    - **Ask me about**: JavaScript, Agile, MicroFrontend, Front-end Optimization, Software Architecture, Data Structures and Algorithms, Problem Solving.
 
-  ## LeetCode
+# Professional Experience
+
+## Senior Software Engineer
+**June 2023 – Present**  
+**Entomo GTDIC, Bangalore, KA, IN**
+
+- Proactively fixed issues in the Java backend, improving overall system stability and reducing backend-related incidents by 20%.
+- Worked on designing new features in collaboration with remote colleagues and in close coordination with various stakeholders, including Architects, Product Experts, and Product Owners. Maintained, improved, and refactored the product and tested large and complex code bases.
+- Ensured the seamless integration and performance of both front-end and back-end systems, resulting in a 15% reduction in system downtime and a 10% increase in overall system efficiency.
+- Implemented secure development practices and addressed new user stories, resulting in a 15% increase in platform functionality and user experience.
+- Showcased a commitment to innovation and staying current with industry trends, contributing to a 15% increase in the adoption of new technologies within the team.
+- Effectively handled quality assurance issues related to program management, resulting in a 30% reduction in the average issue resolution time.
+
+## Front-end Engineer
+**August 2019 – June 2023**  
+**SAP Labs India, Bangalore, KA**
+
+- Led critical front-end optimization initiatives at SAP, including search performance improvements, memory leak fixes, and UI component testing, while collaborating with UX teams and senior developers to implement features for major customers.
+- Architected and enhanced core UI functionalities by implementing pagination, addressing web accessibility issues, improving state management with RxJS, and resolving style-sheet leaks in production.
+- Spearheaded the development of SAP’s Semicolon Hackathon Portal from scratch, enabling 10,000+ candidates to participate remotely during the pandemic through HackerRank API integration and Cloud Foundry deployment, with robust document verification capabilities.
+
+## LeetCode
 
    ![LeetCode Stats](https://leetcard.jacoblin.cool/amit_krishna_)
 
