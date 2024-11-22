@@ -15,7 +15,6 @@
    ![LeetCode Stats](https://leetcard.jacoblin.cool/amit_krishna_)
 
   ## LinkedIn
-    ![LinkedIn](https://www.linkedin.com/in/amitkrishnasde/)
 
     [![Linkedin Badge](https://komarev.com/ghpvc/?username=amitkrishnasde&style=for-the-badge)](https://www.linkedin.com/in/amitkrishnasde/)
 
