@@ -10,16 +10,23 @@
   
   ### Links
 
-[LinkedIn](https://www.linkedin.com/in/amitkrishnasde/)
+  ## LeetCode
 
-![GithubStats](https://github-readme-stats.vercel.app/api?username=amitkrishna&show_icons=true&title_color=blue&icon_color=bluef&text_color=red&bg_color=green)
+   ![LeetCode Stats](https://leetcard.jacoblin.cool/amit_krishna_)
+
+  ## LinkedIn
+    [LinkedIn](https://www.linkedin.com/in/amitkrishnasde/)
+
+    [![Linkedin Badge](https://komarev.com/ghpvc/?username=amitkrishnasde&style=for-the-badge)](https://www.linkedin.com/in/amitkrishnasde/)
+
+  ## Github
+
+   ![GithubStats](https://github-readme-stats.vercel.app/api?username=amitkrishna&show_icons=true&title_color=blue&icon_color=bluef&text_color=red&bg_color=green)
 
 
-![Programming_Language_Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkrishna&layout=compact&theme=dark)
+<!-- #![Programming_Language_Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkrishna&layout=compact&theme=dark) -->
 
-## LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/amit_krishna_)
 
 <!--
 **amitkrishna/amitkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
