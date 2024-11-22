@@ -1,15 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=amitkrishna&label=PROFILE+VIEWS&color=blue)
 
-### Hi there 👋 Its me Amit :)
- 🌱 I’m currently learning my way to by proficient in core CS concepts<br/>
- ⚡ Fun fact: Like to Curry in Javascript<br/>
- 👯 I’m looking to collaborate on AngularJS <br/>
-  📫 How to reach me: amitkrishna936@protonmail.com<br/>
-  💬 Ask me about -Kubernetes , Docker , Helm
+### Hi there 👋 I am me Amit Krishna
+   🌱 Senior Software Engineer Specialized in Front-end heavy Full-Stack Engineering for enterprise-grade applications.
+   ⚡Expert in Angular 10+, HighChart, NgRX, RxJS, and TypeScript/JavaScript. 
+   👯Committed to Agile principles and clean, secure coding for Cloud-Native Architectures.
+   📫Thrives in fast-paced environments; excels in teamwork and problem-solving.
+   Ask me about -JavaScript, Agile, MicroFrontend, Front end Optimization, Software Architecture
   
   ### Links
 
-[LinkedIn](https://linkedin.com/in/imamitkrishna)
+[LinkedIn](https://www.linkedin.com/in/amitkrishnasde/)
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=amitkrishna&show_icons=true&title_color=blue&icon_color=bluef&text_color=red&bg_color=green)
 
