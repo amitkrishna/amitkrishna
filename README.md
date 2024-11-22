@@ -18,6 +18,8 @@ Since graduating in 2019, I've thrived in the fast-paced software industry. I ex
 ## My Articles
 - [Angular Security](https://amitkrishnatech.substack.com/p/ngsecbrokenaccesscontrol?r=2052gt&utm_campaign=post&utm_medium=web&triedRedirect=true)
 
+## Github
+![<amitkrishna>'s Stats](https://github-readme-stats.vercel.app/api?username=amitkrishna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!--  ## Github
 
