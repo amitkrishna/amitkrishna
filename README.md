@@ -16,6 +16,10 @@
 
 ![Programming_Language_Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkrishna&layout=compact&theme=dark)
 
+## LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/amit_krishna_)
+
 <!--
 **amitkrishna/amitkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
