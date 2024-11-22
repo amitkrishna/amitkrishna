@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=amitkrishna&label=PROFILE+VIEWS&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-amitkrishnasde-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitkrishnasde/)](https://www.linkedin.com/in/amitkrishnasde/) 
  [![Twitter Badge](https://img.shields.io/badge/-amit_krishna_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/amit_krishna_/)](https://www.twitter.com/amit_krishna_/)
+[![Gmail Badge](https://img.shields.io/badge/-work.amitkrishna@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:work.amitkrishna@gmail.com)](mailto:work.amitkrishna@gmail.com)
 
 ### Hi there 👋 I am Amit Krishna
    - 🌱 **Senior Software Engineer** specialized in Front-end heavy Full-Stack Engineering for enterprise-grade applications.
