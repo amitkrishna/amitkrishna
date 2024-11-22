@@ -1,11 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=amitkrishna&label=PROFILE+VIEWS&color=blue)
 
 ### Hi there 👋 I am me Amit Krishna
-   🌱 Senior Software Engineer Specialized in Front-end heavy Full-Stack Engineering for enterprise-grade applications.
-   ⚡Expert in Angular 10+, HighChart, NgRX, RxJS, and TypeScript/JavaScript. 
-   👯Committed to Agile principles and clean, secure coding for Cloud-Native Architectures.
-   📫Thrives in fast-paced environments; excels in teamwork and problem-solving.
-   Ask me about -JavaScript, Agile, MicroFrontend, Front end Optimization, Software Architecture
+   - 🌱 **Senior Software Engineer** specialized in Front-end heavy Full-Stack Engineering for enterprise-grade applications.
+   - ⚡ **Expert** in Angular 10+, HighChart, NgRX, RxJS, and TypeScript/JavaScript.
+   - 👯 **Committed** to Agile principles and clean, secure coding for Cloud-Native Architectures.
+   - 📫 **Thrives** in fast-paced environments; excels in teamwork and problem-solving.
+   - **Ask me about**: JavaScript, Agile, MicroFrontend, Front-end Optimization, Software Architecture, Data Structures and Algorithms.
+
   
   ### Links
 
