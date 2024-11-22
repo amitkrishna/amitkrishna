@@ -1,9 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=amitkrishna&label=PROFILE+VIEWS&color=blue)
 
-An experienced Software Development Engineer(Front end Full Stack) with 5+ years specializing in Front-end Engineering for enterprise-grade applications, especially Data Processing Systems solving real world problems and complex challenges in Software Engineering. I'm committed to Agile principles and prioritize clean, secure coding for Cloud-Native Architectures.
-
-Since graduating in 2019, I've thrived in the fast-paced software industry. I excel in teamwork, problem-solving, and taking ownership of tasks. My daily-driven skills include Angular 10+, HighChart, NgRX(Redux), RxJS, Jasmine-Karma Unit Testing and TypeScript/JavaScript(ESNext).Well experienced with Startup Culture and Fast paced development.
-
 ### Hi there 👋 I am Amit Krishna
    - 🌱 **Senior Software Engineer** specialized in Front-end heavy Full-Stack Engineering for enterprise-grade applications.
    - ⚡ **Expert** in Angular 10+, HighChart, NgRX, RxJS, and TypeScript/JavaScript.
@@ -11,7 +7,10 @@ Since graduating in 2019, I've thrived in the fast-paced software industry. I ex
    - 📫 **Thrives** in fast-paced environments; excels in teamwork and problem-solving.
    - **Ask me about**: JavaScript, Agile, MicroFrontend, Front-end Optimization, Software Architecture, Data Structures and Algorithms, Problem Solving.
 
-# Professional Experience
+An experienced Software Development Engineer(Front end Full Stack) with 5+ years specializing in Front-end Engineering for enterprise-grade applications, especially Data Processing Systems solving real world problems and complex challenges in Software Engineering. I'm committed to Agile principles and prioritize clean, secure coding for Cloud-Native Architectures.
+
+Since graduating in 2019, I've thrived in the fast-paced software industry. I excel in teamwork, problem-solving, and taking ownership of tasks. My daily-driven skills include Angular 10+, HighChart, NgRX(Redux), RxJS, Jasmine-Karma Unit Testing and TypeScript/JavaScript(ESNext).Well experienced with Startup Culture and Fast paced development.
+### Professional Experience
 
 ### Senior Software Engineer
 **June 2023 – Present**  
