@@ -4,7 +4,7 @@ An experienced Software Development Engineer(Front end Full Stack) with 5+ years
 
 Since graduating in 2019, I've thrived in the fast-paced software industry. I excel in teamwork, problem-solving, and taking ownership of tasks. My daily-driven skills include Angular 10+, HighChart, NgRX(Redux), RxJS, Jasmine-Karma Unit Testing and TypeScript/JavaScript(ESNext).Well experienced with Startup Culture and Fast paced development.
 
-### Hi there 👋 I am me Amit Krishna
+### Hi there 👋 I am Amit Krishna
    - 🌱 **Senior Software Engineer** specialized in Front-end heavy Full-Stack Engineering for enterprise-grade applications.
    - ⚡ **Expert** in Angular 10+, HighChart, NgRX, RxJS, and TypeScript/JavaScript.
    - 👯 **Committed** to Agile principles and clean, secure coding for Cloud-Native Architectures.
